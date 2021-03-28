@@ -1,0 +1,14 @@
+{
+  "api": {
+    "port": "",
+    "host": ""
+  },
+  "pushNotificationServer": {
+    "port": "",
+    "host": ""
+  },
+  "databaseConfig": {
+    "host": "",
+    "database": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "simple-push-notification-server-using-socket-io",
+  "version": "1.0.0",
+  "description": "simple push notification server using Socket.io",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed-hamdy90/simple-user-notification-service.git"
+  },
+  "author": "ahmedhamdy20@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmed-hamdy90/simple-user-notification-service/issues"
+  },
+  "homepage": "https://github.com/ahmed-hamdy90/simple-user-notification-service#readme",
+  "dependencies": {
+    "express": "^4.16.1",
+    "socket.io": "^4.0.0"
+  }
+}

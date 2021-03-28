@@ -1,0 +1,14 @@
+{
+    "api": {
+        "port": 3000,
+        "host": "0.0.0.0"
+    },
+    "pushNotificationServer": {
+        "port": 8080,
+        "host": "push-notification-server"
+    },
+    "databaseConfig": {
+        "host": "db",
+        "database": "taskDB"
+    }
+}

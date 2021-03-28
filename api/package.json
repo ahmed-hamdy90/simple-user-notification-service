@@ -1,0 +1,25 @@
+{
+  "name": "simple-notification-task",
+  "version": "1.0.0",
+  "description": "simple user notification Restful API",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed-hamdy90/simple-user-notification-service.git"
+  },
+  "author": "ahmedhamdy20@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmed-hamdy90/simple-user-notification-service/issues"
+  },
+  "homepage": "https://github.com/ahmed-hamdy90/simple-user-notification-service#readme",
+  "dependencies": {
+    "express": "^4.16.1",
+    "mongoose": "^5.8.3",
+    "mongoose-sequence":"^5.3.0",
+    "axios": "^0.21.1"
+  }
+}
